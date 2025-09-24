@@ -1,0 +1,70 @@
+.my-pic{
+  display: block;
+    max-width: 250px;
+    width: 90%;
+    height: auto;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+body{
+  background-color: rgba(0, 255, 166, 0.269);
+  font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f9f9;
+    color: #333;
+    line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6{
+  
+  color: #05a386;
+    margin-top: 25px;
+    padding: 0 20px;
+
+}
+
+nav {
+  text-align: right;
+  background: #05cea6;
+  padding: 15px;
+    text-align: center;
+}
+
+nav {
+    background: #05cea6;
+    padding: 10px;
+    text-align: right;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+nav a:hover {
+    text-decoration: underline;
+    background-color: #b2ffff;
+}
+
+p {
+    padding: 0 20px;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+hr {
+    border: none;
+    border-top: 2px solid #ddd;
+    margin: 30px 0;
+}
+        
+
+        
